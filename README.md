@@ -1,9 +1,9 @@
 # Piano
 
 <p align="center">"Piano" is a simple game develop using the Unity Engine, based on the C# language, for the "Animation and Sound for Digital Games" subject at Faculdade de Tecnologia de Americana (FATEC-AM).</p>
+<p align="center">The game simulates a 8 notes Piano, each note was selected by the developers, along with 4 melodies, at the left side of the screen, that the player can play with. The top buttons change the sound of each note at the Piano and at the right side, the player can control the volume of the melodies and the volume of the Piano itselft.</p>
 
-![image](https://github.com/MilenyClemente/Piano/assets/72141168/3d56d613-aa3c-43e1-8926-2e5b71f7e80c)
-
+![image](https://github.com/MilenyClemente/Piano/assets/72141168/375fc081-bd82-418c-98b4-5163ba4117ef)
 
   <hr>
 
